@@ -1,2 +1,3 @@
 Wife Name= Shinjini
-Job= Assistant Prof
+Wife Surname = Nag
+Job= Assistant= Prof
